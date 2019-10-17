@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func Kozma() string {
+func Say() string {
 	return choose(quotes)
 }
 
