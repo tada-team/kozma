@@ -5,6 +5,6 @@
 import "github.com/tada-team/kozma"
 
 func main() {
-  print(kozma.Say())
+  print(kozma.Say()) // Без надобности носимый набрюшник - вреден.
 }
 ```
