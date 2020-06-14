@@ -2,6 +2,8 @@
 Импортозамещение: зачем нам Lorem Ipsum, когда у нас есть Козьма Прутков?
 
 ```go
+package main
+
 import "github.com/tada-team/kozma"
 
 func main() {
