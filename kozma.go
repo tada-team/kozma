@@ -5,6 +5,8 @@ import (
 	"strings"
 )
 
+const Name = "Козьма Прутков"
+
 func All() []string { return quotes }
 func Say() string   { return choose(quotes) }
 
