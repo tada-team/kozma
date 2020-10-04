@@ -1,5 +1,5 @@
 # Бди!
-Импортозамещение: зачем нам Lorem Ipsum, когда у нас есть Козьма Прутков?
+Импортозамещение: зачем нам Lorem Ipsum, когда у нас есть [Козьма Прутков](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D1%8C%D0%BC%D0%B0_%D0%9F%D1%80%D1%83%D1%82%D0%BA%D0%BE%D0%B2)?
 
 ```go
 package main
